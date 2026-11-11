@@ -1,0 +1,143 @@
+{
+  "documents": [
+    {
+      "document_id": "LEAVE-2026",
+      "filename": "learning_leave_current.md",
+      "title": "Learning Leave Policy (Current)",
+      "version": "1.0",
+      "effective_start": "2026-01-01",
+      "effective_end": null,
+      "status": "current",
+      "department_scope": "All departments",
+      "passage_ids": [
+        "LEAVE-2026-P1",
+        "LEAVE-2026-P2"
+      ]
+    },
+    {
+      "document_id": "LEAVE-2025",
+      "filename": "learning_leave_archived.md",
+      "title": "Learning Leave Policy (Archived)",
+      "version": "1.0",
+      "effective_start": "2025-01-01",
+      "effective_end": "2025-12-31",
+      "status": "archive",
+      "department_scope": "All departments",
+      "passage_ids": [
+        "LEAVE-2025-P1"
+      ]
+    },
+    {
+      "document_id": "TRAVEL-2026",
+      "filename": "travel_expenses_current.md",
+      "title": "Business Travel Expenses Policy (Current)",
+      "version": "1.0",
+      "effective_start": null,
+      "effective_end": null,
+      "status": "current",
+      "department_scope": "All departments",
+      "passage_ids": [
+        "TRAVEL-2026-P1",
+        "TRAVEL-2026-P2"
+      ]
+    },
+    {
+      "document_id": "TRAVEL-FAQ",
+      "filename": "travel_expenses_faq.md",
+      "title": "Business Travel Expenses FAQ",
+      "version": "1.0",
+      "effective_start": null,
+      "effective_end": null,
+      "status": "current",
+      "department_scope": "All departments",
+      "passage_ids": [
+        "TRAVEL-FAQ-P1",
+        "TRAVEL-FAQ-P2"
+      ]
+    },
+    {
+      "document_id": "REMOTE-2026",
+      "filename": "remote_work_general.md",
+      "title": "Remote Work Policy (General, Current)",
+      "version": "1.0",
+      "effective_start": "2026-01-01",
+      "effective_end": null,
+      "status": "current",
+      "department_scope": "All departments, subject to applicable department exceptions",
+      "passage_ids": [
+        "REMOTE-2026-P1",
+        "REMOTE-2026-P2"
+      ]
+    },
+    {
+      "document_id": "EQUIP-2026",
+      "filename": "equipment_current.md",
+      "title": "Work Equipment Policy (Current)",
+      "version": "1.0",
+      "effective_start": null,
+      "effective_end": null,
+      "status": "current",
+      "department_scope": "All departments",
+      "passage_ids": [
+        "EQUIP-2026-P1",
+        "EQUIP-2026-P2"
+      ]
+    },
+    {
+      "document_id": "ONBOARD-2026",
+      "filename": "onboarding_current.md",
+      "title": "Onboarding Policy (Current)",
+      "version": "1.0",
+      "effective_start": null,
+      "effective_end": null,
+      "status": "current",
+      "department_scope": "All departments",
+      "passage_ids": [
+        "ONBOARD-2026-P1"
+      ]
+    },
+    {
+      "document_id": "AUTH-2026",
+      "filename": "authority_register.md",
+  "title": "Policy Authority Register (Current)",
+      "version": "1.0",
+      "effective_start": null,
+      "effective_end": null,
+      "status": "current",
+      "department_scope": "All departments",
+      "passage_ids": [
+        "AUTH-2026-P1",
+        "AUTH-2026-P2",
+        "AUTH-2026-P3",
+        "AUTH-2026-P4"
+      ]
+    },
+    {
+      "document_id": "SUPPORT-2026",
+      "filename": "support_operations_remote_exception.md",
+      "title": "Support Operations Remote-Work Exception (Current)",
+      "version": "1.0",
+      "effective_start": "2026-03-01",
+      "effective_end": null,
+      "status": "current",
+      "department_scope": "Support Operations",
+      "passage_ids": [
+        "SUPPORT-2026-P1",
+        "SUPPORT-2026-P2"
+      ]
+    },
+    {
+      "document_id": "WEBINAR-2026",
+      "filename": "internal_webinar_announcement.md",
+      "title": "Internal Webinar Announcement",
+      "version": "1.0",
+      "effective_start": null,
+      "effective_end": null,
+      "status": "current",
+      "department_scope": "All departments",
+      "passage_ids": [
+        "WEBINAR-2026-P1"
+      ]
+    }
+  ]
+}

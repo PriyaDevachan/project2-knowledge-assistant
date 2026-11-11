@@ -1,0 +1,6 @@
+fastapi
+groq
+python-dotenv
+pytest
+rank-bm25
+uvicorn[standard]
